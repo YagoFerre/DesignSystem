@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@yago-ferreira-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,10 +27,10 @@
     "polished": "^4.2.2"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@yago-ferreira-ignite-ui/eslint-config": "*",
+    "@yago-ferreira-ignite-ui/react": "*",
+    "@yago-ferreira-ignite-ui/tokens": "*",
+    "@yago-ferreira-ignite-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
